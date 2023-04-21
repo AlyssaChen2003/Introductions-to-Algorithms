@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "稳定匹配", "稳定匹配\稳定匹配.vcxproj", "{30C40CE3-5F3A-4904-9963-8EFE2D5214BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C40CE3-5F3A-4904-9963-8EFE2D5214BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30C40CE3-5F3A-4904-9963-8EFE2D5214BA}.Debug|Win32.Build.0 = Debug|Win32
+		{30C40CE3-5F3A-4904-9963-8EFE2D5214BA}.Release|Win32.ActiveCfg = Release|Win32
+		{30C40CE3-5F3A-4904-9963-8EFE2D5214BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
